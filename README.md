@@ -23,3 +23,7 @@ Here are some ideas to get you started:
     <h1>Sumon</h1>
 </body>
 </html>
+
+[asd sdf](wp4364275.jp)
+
+<img src="../wp4364275.jp"> </img>
