@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 </body>
 </html>
 
-[asd sdf](wp4364275.jp)
+[asd sdf](wp4364275.jpg)
 
-<img src="../wp4364275.jp"> </img>
+<img src="wp4364275.jpg"> </img>
