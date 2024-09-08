@@ -1,5 +1,12 @@
 # Hi, I'm S M Sumon 👋
 
+🌐 I’m a web developer with expertise in HTML, CSS, PHP, and Laravel. I’m passionate about creating dynamic and engaging web experiences.
+
+🎨 When I'm not coding, you can find me enjoying movies and music, or diving into new programming challenges.
+
+Let's connect and build something amazing together!
+
+
 ![Profile Picture](https://github.com/S-M-SUMON/s-m-sumon/blob/main/aabbb.jpg)
 
 Welcome to my GitHub profile! I'm a passionate web developer with a focus on creating dynamic and responsive web applications. My skill set includes a blend of front-end and back-end technologies, allowing me to build comprehensive solutions for diverse web development needs.
