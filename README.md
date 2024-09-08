@@ -37,9 +37,9 @@ Feel free to explore my repositories to see more of what I've been working on!
 You can reach me at:
 
 - [Email](mdsumonshik1@gmail.com)
-- [Facebook](https://www.facebook.com/mohammedsumonsheik)
-- [Telegram](t.me/shaikmohammadsumon)
-- [Instragram](https://www.instagram.com/mohammedsumonsheik/)
+- [Facebook](https://www.facebook.com/shaikmohammedsumon)
+- [Telegram](t.me/shaikmohammedsumon)
+- [Instragram](https://www.instagram.com/shaikmohammedsumon/)
 
 
 
